@@ -1,0 +1,34 @@
+#gameLink {
+    text-decoration: none;
+}
+
+nav {
+    box-shadow: 0 14px 28px rgba(0, 0, 0, .25), 0 10px 10px rgba(0, 0, 0, .22);
+}
+
+#headerDiv {
+    background-color: grey;
+    width: 100%;
+}
+
+img {
+    height: 200px;
+}
+
+#headerDiv {
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/S15GBCm/cartoon-sun-light-over-blue-sky-with-clouds-background-with-space-for-your-text-or-logo-nice-sunburst-vintage-style-sun-retro-pattern-over-sky-seamless-loop_shy-5b4w__F0000.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer {
+    height: 56px;
+    background-color: #f8f9fa!important;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#card-container {
+    margin-bottom: 30px;
+}

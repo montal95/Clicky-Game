@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Batman",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/c/c8/Batman_-_Super_Friends_01.jpg/revision/latest?cb=20080218065237",
+    "nickname": "caped cruisader",
+    "location": "Gotham"
+  },
+  {
+    "id": 2,
+    "name": "Robin",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/b/b2/Robin_-_Super_Friends_001.jpg/revision/latest?cb=20080218205807",
+    "nickname": "Boy Wonder",
+    "location": "Gotham"
+  },
+  {
+    "id": 3,
+    "name": "Superman",
+    "image": "https://c1.staticflickr.com/9/8511/29709241072_7ca9f1bae1.jpg",
+    "nickname": "Man of Steel",
+    "location": "Metropolis"
+  },
+  {
+    "id": 4,
+    "name": "Wonder Woman",
+    "image": "https://vignette.wikia.nocookie.net/superfriends/images/a/a2/WW.jpg/revision/latest?cb=20100721041058",
+    "nickname": "Amazon Princess",
+    "location": "Themyscara"
+  },
+  {
+    "id": 5,
+    "name": "Cyborg",
+    "image": "https://vignette.wikia.nocookie.net/superfriends/images/c/ce/CY.png/revision/latest?cb=20090719173604",
+    "nickname": "Victor Stone",
+    "location": "Central City"
+  },
+  {
+    "id": 6,
+    "name": "Flash",
+    "image": "https://vignette.wikia.nocookie.net/superfriends/images/9/90/The_Flash.png/revision/latest?cb=20090625015549",
+    "nickname": "Barry Allen",
+    "location": "Central City"
+  },
+  {
+    "id": 7,
+    "name": "Aquaman",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/6/6f/Aquaman_Super_Friends_001.jpg/revision/latest?cb=20120814114439",
+    "nickname": "Arthur Curry",
+    "location": "Atlantis"
+  },
+  {
+    "id": 8,
+    "name": "Aqualad",
+    "image": "https://vignette.wikia.nocookie.net/superfriends/images/6/6c/Al.jpg/revision/latest?cb=20171020232724",
+    "nickname": "Garth",
+    "location": "Atlantis"
+  },
+  {
+    "id": 9,
+    "name": "Apache Chief",
+    "image": "https://vignette.wikia.nocookie.net/superfriends/images/3/3c/Apache_1.png/revision/latest?cb=20090711195241",
+    "nickname": "Manitou Raven",
+    "location": "Hall of Justice"
+  },
+  {
+    "id": 10,
+    "name": "Black Vulcan",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/7/72/Black_Vulcan_Super_Friends_001.jpg/revision/latest?cb=20120814133146",
+    "nickname": "Static",
+    "location": "Hall of Justice"
+  },
+  {
+    "id": 11,
+    "name": "Wendy and Marvin",
+    "image": "https://talesofadequacy.files.wordpress.com/2014/06/wendy_harris_marvin_white__wonder_dog.jpg",
+    "nickname": "Kuttlers",
+    "location": "Hall of Justice"
+  },
+  {
+    "id": 12,
+    "name": "Wonder Twins",
+    "image": "https://vignette.wikia.nocookie.net/superfriends/images/9/97/WT2.jpg/revision/latest?cb=20090402045004",
+    "nickname": "Zan and Jan",
+    "location": "Exxor"
+  }
+]
